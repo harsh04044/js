@@ -25,5 +25,7 @@ let state;
 
 // object
 
+//tc39 //mdn => docs
+
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
